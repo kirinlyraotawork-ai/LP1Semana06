@@ -13,7 +13,10 @@ namespace MyGame
             {
                 Console.Write($"Nome do inimigo {i+1}: ");
                 string input = Console.ReadLine();
-                enemyArray[i] = new Enemy(input);
+                Console.Write($"Vida {i+1}: ");
+                float newhealth = float.Parse(Console.ReadLine());
+                enemyArray[i] = new Enemy(input,newhealth);
+                //enemyArray[i].Print();
             }
 
             foreach (Enemy j in enemyArray)
@@ -21,14 +24,16 @@ namespace MyGame
                 Console.WriteLine($"{j.GetName()} {j.GetHealth()} {j.GetShield()}");
             }
 
-            Enemy enemyTest = new Enemy("test");
+            /*Enemy enemyTest = new Enemy("test",14);
             
             enemyTest.PickPowerUp(PowerUp.Shield, 15);
-            Console.WriteLine($"{enemyTest.GetName()} {enemyTest.GetHealth()} {enemyTest.GetShield()}");
+            enemyTest.Print();
+            //Console.WriteLine($"{enemyTest.GetName()} {enemyTest.GetHealth()} {enemyTest.GetShield()}");
             enemyTest.TakeDamage(30);
-            Console.WriteLine($"{enemyTest.GetName()} {enemyTest.GetHealth()} {enemyTest.GetShield()}");
+            //Console.WriteLine($"{enemyTest.GetName()} {enemyTest.GetHealth()} {enemyTest.GetShield()}");
             enemyTest.PickPowerUp(PowerUp.Health, 70);
-            Console.WriteLine($"{enemyTest.GetName()} {enemyTest.GetHealth()} {enemyTest.GetShield()}");
+            //Console.WriteLine($"{enemyTest.GetName()} {enemyTest.GetHealth()} {enemyTest.GetShield()}");
+            */
         }
     }
 

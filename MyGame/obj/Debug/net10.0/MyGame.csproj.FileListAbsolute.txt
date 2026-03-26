@@ -12,3 +12,4 @@ C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\ne
 C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.pdb
 C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.genruntimeconfig.cache
 C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\ref\MyGame.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.sourcelink.json

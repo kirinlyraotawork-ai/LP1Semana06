@@ -15,11 +15,11 @@ namespace MyGame
         private float shield;
         private static int collection;
         
-        public Enemy(string name)
+        public Enemy(string name, float health)
         {
             
             SetName(name);
-            health = 100;
+            SetHealth(health);
             shield = 0;
             collection = 0;
             
@@ -30,6 +30,10 @@ namespace MyGame
             return name;
         }
 
+        public void Print()
+        {
+            Console.WriteLine($"{GetName()} {GetHealth()} {GetShield()}");
+        }
         public void TakeDamage(float damage)
         {
             shield -= damage;
@@ -65,6 +69,10 @@ namespace MyGame
             }
         }
 
+        public void SetHealth(float newhealth)
+        {
+            health = newhealth;
+        }
 
         public void PickPowerUp(PowerUp powerup,float number)
         {
