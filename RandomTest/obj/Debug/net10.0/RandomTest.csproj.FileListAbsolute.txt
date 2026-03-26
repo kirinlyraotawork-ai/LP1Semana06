@@ -1,0 +1,14 @@
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\bin\Debug\net10.0\RandomTest.exe
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\bin\Debug\net10.0\RandomTest.deps.json
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\bin\Debug\net10.0\RandomTest.runtimeconfig.json
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\bin\Debug\net10.0\RandomTest.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\bin\Debug\net10.0\RandomTest.pdb
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\RandomTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\RandomTest.AssemblyInfoInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\RandomTest.AssemblyInfo.cs
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\RandomTest.csproj.CoreCompileInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\RandomTest.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\refint\RandomTest.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\RandomTest.pdb
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\RandomTest.genruntimeconfig.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomTest\obj\Debug\net10.0\ref\RandomTest.dll

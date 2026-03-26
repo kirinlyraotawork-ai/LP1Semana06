@@ -1,0 +1,14 @@
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\Chronos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\Chronos.AssemblyInfoInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\Chronos.AssemblyInfo.cs
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\Chronos.csproj.CoreCompileInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\bin\Debug\net10.0\Chronos.exe
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\bin\Debug\net10.0\Chronos.deps.json
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\bin\Debug\net10.0\Chronos.runtimeconfig.json
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\bin\Debug\net10.0\Chronos.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\bin\Debug\net10.0\Chronos.pdb
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\Chronos.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\refint\Chronos.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\Chronos.pdb
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\Chronos.genruntimeconfig.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\Chronos\obj\Debug\net10.0\ref\Chronos.dll

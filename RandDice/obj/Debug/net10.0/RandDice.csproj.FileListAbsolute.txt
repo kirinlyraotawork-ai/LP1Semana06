@@ -1,0 +1,14 @@
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\bin\Debug\net10.0\RandDice.exe
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\bin\Debug\net10.0\RandDice.deps.json
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\bin\Debug\net10.0\RandDice.runtimeconfig.json
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\bin\Debug\net10.0\RandDice.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\bin\Debug\net10.0\RandDice.pdb
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\RandDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\RandDice.AssemblyInfoInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\RandDice.AssemblyInfo.cs
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\RandDice.csproj.CoreCompileInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\RandDice.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\refint\RandDice.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\RandDice.pdb
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\RandDice.genruntimeconfig.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandDice\obj\Debug\net10.0\ref\RandDice.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Chronos/Chronos.csproj" />
+  <Project Path="MyGame/MyGame.csproj" />
+  <Project Path="RandDice/RandDice.csproj" />
+  <Project Path="RandomTest/RandomTest.csproj" />
+  <Project Path="testing/testing.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\bin\Debug\net10.0\MyGame.exe
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\bin\Debug\net10.0\MyGame.deps.json
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\bin\Debug\net10.0\MyGame.runtimeconfig.json
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\bin\Debug\net10.0\MyGame.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\bin\Debug\net10.0\MyGame.pdb
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.AssemblyInfoInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.AssemblyInfo.cs
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\refint\MyGame.dll
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.pdb
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\MyGame.genruntimeconfig.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\MyGame\obj\Debug\net10.0\ref\MyGame.dll
