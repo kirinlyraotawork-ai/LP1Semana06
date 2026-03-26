@@ -1,0 +1,5 @@
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomDungeon\obj\Debug\net10.0\RandomDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomDungeon\obj\Debug\net10.0\RandomDungeon.AssemblyInfoInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomDungeon\obj\Debug\net10.0\RandomDungeon.AssemblyInfo.cs
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomDungeon\obj\Debug\net10.0\RandomDungeon.csproj.CoreCompileInputs.cache
+C:\Users\Lyra\Documents\uni sutff\DISCIPLINAS\LP\LP1Semana06\RandomDungeon\obj\Debug\net10.0\RandomDungeon.sourcelink.json
