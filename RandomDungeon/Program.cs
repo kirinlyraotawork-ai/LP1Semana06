@@ -12,6 +12,7 @@ namespace RandomDungeon
         {
             Arena arena = new Arena(new List<Enemy>());
             Random random = new Random(int.Parse(args[0]));
+            Enemy create = new Enemy(args[1]);
 
             if (args.Length == 2)
             {
