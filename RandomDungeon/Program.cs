@@ -39,11 +39,20 @@ namespace RandomDungeon
             // CÓDIGO AQUI 
             foreach (Enemy j in arena)
             {   
-                Console.WriteLine($"{j.GetName()}");
+                Console.Write($"{j.GetEnemies()}");
             }
             
+
+
+
+
+
+
+
             // Repetir Batalha (Enquanto Existe Mais do que 1 Inimigo)
-            while (arena.enemy>1)// CÓDIGO AQUI OK
+
+
+            while (arena.enemy > 1)// CÓDIGO AQUI OK
             {
                 // Obter a Lista Atual de Inimigos
                 List<Enemy> enemies = arena.GetEnemies();
@@ -56,7 +65,7 @@ namespace RandomDungeon
                 int defenderIndex = random.Next(enemies.Count);
                 if (defenderIndex == attackerIndex)
                 {
-                    defenderIndex = random.Next(enemies.Count);
+                    defenderIndex = random.Next+1;
                 }
                 // CÓDIGO AQUI
                 
