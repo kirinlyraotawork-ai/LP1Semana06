@@ -47,6 +47,7 @@ namespace RandomDungeon
             if (attacker - defender <0)
                 {
                     defender = 0;
+                    defender.RemoveEnemy;
                 }
             else
             {

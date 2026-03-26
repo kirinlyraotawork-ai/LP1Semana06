@@ -16,7 +16,7 @@ namespace MyGame
                 Console.Write($"Vida {i+1}: ");
                 float newhealth = float.Parse(Console.ReadLine());
                 enemyArray[i] = new Enemy(input,newhealth);
-                //enemyArray[i].Print();
+                //enemyArray[i].Print();                
             }
 
             foreach (Enemy j in enemyArray)
