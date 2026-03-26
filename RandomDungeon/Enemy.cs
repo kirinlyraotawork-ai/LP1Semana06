@@ -21,6 +21,14 @@ namespace RandomDungeon
         private int health;
         private int attack;
 
+
+        private static void GenerateRandomEnemy(int seed)
+        {
+            SetName(name);
+            health = random.Next[50,100];
+            //attack = seed.random[50,100];
+            attack = random.Next[50,100];
+        }
         public Enemy(string name, int health, int attack)
         {
             this.name = name;
@@ -62,6 +70,8 @@ namespace RandomDungeon
         public override string ToString()
         {
             // CÓDIGO AQUI
+            string a = $"{GetName()} {GetHealth()} {GetAttack()}";
+            return a;
         }
     }
 }
