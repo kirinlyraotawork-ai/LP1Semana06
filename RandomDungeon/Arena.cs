@@ -44,13 +44,13 @@ namespace RandomDungeon
         {
             // Subtrai o Ataque do Atacante à Vida do Defensor OK
             
-            if (attacker - defensor <0)
+            if (attacker - defender <0)
                 {
-                    defensor = 0;
+                    defender = 0;
                 }
             else
             {
-                attacker -= defensor;
+                attacker -= defender;
             }
             // Garante que a Vida Não Fique Negativa OK
             

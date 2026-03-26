@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomDungeon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4a2bcf39465504277166b69734587ea0f42db47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+925bd4063f123b664398174647ccfbe5cc3991fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomDungeon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomDungeon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -52,7 +52,7 @@ namespace RandomDungeon
 
                 // Selecionar Aleatoriamente um Defensor
                 // Garantindo que Não Seja o Mesmo que o Atacante
-                int defenderIndex = random.Next(enemies.count);
+                int defenderIndex = random.Next(enemies.Count);
                 if (defenderIndex == attackerIndex)
                 {
                     defenderIndex = random.Next(enemies.Count);
